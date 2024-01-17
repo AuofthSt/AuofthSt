@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AuofthSt, but you can call me Agux
-- 👀 I’m interested in Computer Science atm
-- 🌱 I’m currently learning HarvardX CS50x atm
+- 👀 I’m interested in learning Python atm
 - 💞️ I’m looking to collaborate on a future, not yet
 - 📫 How to reach me ...
 
